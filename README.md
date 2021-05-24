@@ -10,4 +10,4 @@ This repository contains the notes on how to use basic markdown
 
 This line helps me to see live updates.
 
-You can find out more about me: [John](https://github.com/JohnLowie4), and you can learn more about my school at [Lighthouse Labs](lighthouselabs.ca).
+You can find out more about me: [John](https://github.com/JohnLowie4), and you can learn more about my school at [Lighthouse Labs](https://www.lighthouselabs.ca).
