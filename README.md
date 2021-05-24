@@ -7,3 +7,5 @@
 This repository contains all of the notes taken by John for the Lighthouse Labs Web Development Bootcamp.
 
 This repository contains the notes on how to use basic markdown
+
+This line helps me to see live updates.
